@@ -1,0 +1,9 @@
+README.md
+content.txt
+file_list.txt
+my_directory
+output.txt
+random_text.txt
+sorted_file_list.txt
+test_copy.sh
+test.sh
